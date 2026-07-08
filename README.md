@@ -74,6 +74,7 @@ Currently exploring system design and advanced DSA.
 
 ### 📫 Let's Connect & Collaborate!
 
+- **Portfolio**: [Vaidik Portfolio](https://heyvaidik.vercel.app/)
 - **Email**: [vaidik26dubey@gmail.com](mailto:vaidik26dubey@gmail.com)
 - **LinkedIn**: [Vaidik Dubey](https://www.linkedin.com/in/vaidik-dubey/)
 - **X**: [vaidik_26](https://x.com/vaidik_26)
