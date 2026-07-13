@@ -8,19 +8,19 @@
   </p>
 
   <!-- Social Badges -->
-  <a href="https://heyvaidik.vercel.app/">
+  <a href="https://heyvaidik.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfoli" />
   </a>
-  <a href="https://www.linkedin.com/in/vaidik-dubey/">
+  <a href="https://www.linkedin.com/in/vaidik-dubey/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://x.com/vaidik_26">
+  <a href="https://x.com/vaidik_26" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-  <a href="https://github.com/vaidikdubey">
+  <a href="https://github.com/vaidikdubey" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-808080?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:vaidik26dubey@gmail.com">
+  <a href="mailto:vaidik26dubey@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 
