@@ -33,9 +33,7 @@
 
 I'm a passionate **Full-Stack Developer** specializing in the **MERN stack** (React, Node.js, Express, MongoDB/PostgreSQL + Prisma). I thrive on building intuitive, scalable, and production-ready web applications that solve real-world problems.
 
-From automating complex business workflows at Forma.ai to shipping complete platforms like no-code form builders, LMS systems, and quick-commerce apps - I love turning complex challenges into elegant, user-friendly solutions.
-
-Currently exploring system design and advanced DSA.
+From automating complex business workflows at Forma.ai to shipping complete platforms like anonymous messaging app, secure code snippet sharing platform, no-code form builders, LMS systems, and quick-commerce app - I love turning complex challenges into elegant, user-friendly solutions.
 
 ---
 
