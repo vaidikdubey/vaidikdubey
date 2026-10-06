@@ -68,11 +68,23 @@ From automating complex business workflows at Forma.ai to shipping complete plat
 
 <div align="center">
 
-![Vaidik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaidikdubey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vaidikdubey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vaidikdubey&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true">
+  <img alt="Vaidik's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=vaidikdubey&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true">
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaidikdubey&layout=compact&theme=radical&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidikdubey&layout=compact&theme=radical&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidikdubey&layout=compact&theme=default&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidikdubey&layout=compact&theme=radical&hide_border=true">
+</picture>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaidikdubey&theme=radical&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vaidikdubey&theme=radical&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=vaidikdubey&theme=default&hide_border=true">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=vaidikdubey&theme=radical&hide_border=true">
+</picture>
 
 </div>
 
